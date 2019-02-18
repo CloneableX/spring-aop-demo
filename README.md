@@ -11,3 +11,7 @@
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;使用aspect工厂形成joinpoint代理，使用代理完成对joinpoint的监听
 </p>
+<b>spring-aop04</b>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;利用aspect做自定义注解
+</p>
