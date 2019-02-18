@@ -7,3 +7,7 @@
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;使用注解方式进行aspect的配置以及监听
 </p>
+<b>spring-aop03</b>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;使用aspect工厂形成joinpoint代理，使用代理完成对joinpoint的监听
+</p>
